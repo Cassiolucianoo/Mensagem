@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443418064561",
+    "firebase_url": "https://chat-d16cd.firebaseio.com",
+    "project_id": "chat-d16cd",
+    "storage_bucket": "chat-d16cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443418064561:android:1191e4565dba6b15e21490",
+        "android_client_info": {
+          "package_name": "br.cassio.devmedia.firebase_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443418064561-5sr0hvj146a3fd0k79k2m78p0104un6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeLkrQzg0m7SbTJQPOpNZQsFGDYbUjp0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443418064561-5sr0hvj146a3fd0k79k2m78p0104un6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

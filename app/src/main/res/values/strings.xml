@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SM Messenger</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="j_tem_conta">já tem conta? Clique aqui </string>
+    <string name="voltar_para_cadastro">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="creator">Cadastrar</string>
+    <string name="select_photo">Foto do perfil</string>
+    <string name="sign_out">Sair</string>
+    <string name="new_message">Nova Menssagem</string>
+</resources>
